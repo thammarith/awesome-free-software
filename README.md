@@ -1,4 +1,4 @@
-# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-free-software [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 An awesome list of **free-of-charge** software (not necessarily open source).
 
