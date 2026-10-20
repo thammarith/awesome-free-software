@@ -22,6 +22,7 @@ If you are not sure where to place, you can create a pull request with a link to
 ## Books & ebooks
 
 - [Calibre](https://calibre-ebook.com/download) - Ebook manager.
+- [Glim](https://github.com/NeoPanic/Glim) - macOS reader for EPUB, PDF and Markdown files.
 
 ## Education
 
