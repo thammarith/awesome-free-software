@@ -44,6 +44,10 @@ If you are not sure where to place, you can create a pull request with a link to
 
 This section compiles free but not full software, i.e., you have to pay for extra features.
 
+## Productivity
+
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Windows 11 workspace launcher with configurable hold triggers, browser profiles, URLs, and saved display layouts (preview).
+
 ## TODO
 
 - Add software from [this](https://www.reddit.com/r/AskReddit/comments/atxdcb/what_free_software_is_so_good_you_cant_believe) and [this](https://www.reddit.com/r/AskReddit/comments/7x639l/what_free_software_is_so_good_you_cant_believe/) Reddit threads
